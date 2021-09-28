@@ -296,7 +296,7 @@ h6 {
 
 .footer__row {
   display: flex;
-  height: 65%;
+  height: 60%;
   justify-content: center;
   align-items: center;
 }
